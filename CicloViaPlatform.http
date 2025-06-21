@@ -1,0 +1,6 @@
+@CicloViaPlatform_HostAddress = http://localhost:5027
+
+GET {{CicloViaPlatform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
